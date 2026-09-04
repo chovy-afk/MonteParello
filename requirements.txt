@@ -1,0 +1,15 @@
+tradingagents
+numpy
+pandas
+scipy
+yfinance
+pyarrow
+matplotlib
+plotly
+fastapi
+uvicorn[standard]
+pydantic
+redis
+sqlalchemy
+streamlit
+ray[default]
